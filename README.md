@@ -40,4 +40,4 @@ The dashboard includes the following visualizations:
 
 - `Employee Analysis Report.pbix`: The Power BI file containing the dashboard.
 - `README.md`: Documentation for the project (this file).
-- `HRDataset_v9 (1).csv`: The raw dataset (not included in this repository).
+- `HRDataset_v9 (1).csv`: The raw dataset.

@@ -2,6 +2,13 @@
 
 This repository showcases an **Employee Data Dashboard** created using **Power BI**. The dashboard provides insightful visualizations and analysis of employee data, helping stakeholders make informed decisions based on various metrics such as gender, department, pay rate, and more.
 
+## Snapshot of the dashboard
+![image](https://github.com/user-attachments/assets/e07bfe88-b37a-484b-885a-b0b4c14b57ee)
+
+## Link of the Dashboard
+https://app.powerbi.com/groups/me/reports/3334ca85-2c39-4652-ac84-8092deb9f0c7/c77c6c7c15502e9cd5bc?experience=power-bi
+
+
 ## 📊 Dashboard Overview
 
 The dashboard includes the following visualizations:
